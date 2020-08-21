@@ -1,5 +1,5 @@
 //BellmanFord Algorithm
-//complexity O(ne)
+//complexity O((n-1)*n*e) ~ O(n^3)
 
 #include<bits/stdc++.h>
 using namespace std;
